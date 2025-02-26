@@ -13,6 +13,8 @@
 <form action="action.php" method="POST">
     <table border="1"> 
         <tr>
+            <th>Question</th>
+            <th>Answer</th>
             <td> Name: </td>
             <td> <input type="text" name="name"> </td>
         </tr>
